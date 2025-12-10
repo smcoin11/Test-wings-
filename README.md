@@ -20,3 +20,4 @@ test ciil 18
 Test wings 19
 test wings 20
 test wings 21
+test wing 22
