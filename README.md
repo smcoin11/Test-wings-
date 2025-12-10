@@ -23,3 +23,4 @@ test wings 21
 test wing 22
 test wing 23
 test wing 24
+test wing 25
